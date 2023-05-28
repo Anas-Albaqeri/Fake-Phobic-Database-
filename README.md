@@ -1,2 +1,1 @@
-# Fake-Phobic-Database-
-Database project for a newspaper company; Fake-Phobic news 
+The PDF contains all the needed content 
