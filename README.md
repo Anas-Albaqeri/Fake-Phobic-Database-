@@ -15,7 +15,7 @@ The technical aspect of the project involves the meticulous process of mapping t
 ## Advanced Queries
 One of the project's highlights is the series of SQL queries executed to address specific, realistic scenarios. These queries range from managing supply shortages to optimizing advertisement placements, showcasing the database's utility in practical, real-world applications. The project also emphasizes the importance of normalization, ensuring that each table adheres to the highest standards of data integrity and efficiency. The document concludes with a reflection on the learning outcomes, underscoring the project's success in bridging theoretical knowledge with practical application. It signifies a comprehensive approach to database design and management, balancing technical prowess with an understanding of the dynamic needs of a modern newspaper company.
 
-<img width="461" alt="image" src="https://github.com/Anas-Albaqeri/Fake-Phobic-Database-/assets/127996785/7e7785a4-c57c-42eb-93bb-a4fbf97aa654">
+<img width="422" alt="image" src="https://github.com/Anas-Albaqeri/Fake-Phobic-Database-/assets/127996785/bcfe3a97-408c-4ebf-b506-506921224c6e">
 
 ## Conclusion
 In conclusion, the project covers the whole process of creating and mainting a database. It covers all the sequential processes from the design of the ER (Entity-Relationship) diagram, implementation of mapping algorithms, creation and population of database tables, execution of queries, and the normalization process. Moreover, the project highlights the educational value gained, and how it helped transforming classroom knowledge to practical scenarios. 
